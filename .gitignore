@@ -2,6 +2,7 @@
 /.mypy_cache
 .vscode/
 .vscode/settings.json
+.vscode/tasks.json
 /.ruff_cache
 /duck
 /notes
