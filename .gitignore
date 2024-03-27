@@ -1,6 +1,10 @@
 # health = med_track (GitHub)
 /.mypy_cache
+.vscode/
 .vscode/settings.json
+/.ruff_cache
 /duck
 /notes
 /pmc
+/database
+*.md
